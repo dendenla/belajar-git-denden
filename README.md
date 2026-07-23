@@ -5,3 +5,4 @@ hobi saya membaca manhwa/komik
 -nama lengkap : Denis Pirmansyah  
 -Kelas        : XI RPL 2  
 -cita cita    : Sukses dunia Akherat  
+hobi          : Membaca Manhwa/komik  
